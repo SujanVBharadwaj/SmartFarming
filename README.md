@@ -10,3 +10,6 @@ Generate AI recommendations
 Store and review predictions
 
 This system empowers data-driven decision-making for sustainable and efficient agriculture. 🌱🤖
+
+Regards,
+Team:Vrishank Bhargav,Sujan Bharadwaj
